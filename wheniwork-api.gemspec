@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'Wheniwork-api'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2014-03-24'
   s.summary     = 'When I Work API v2 Wrapper'
   s.description = ''
